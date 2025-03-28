@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://decoramostulocal.com/sitemap.xml
